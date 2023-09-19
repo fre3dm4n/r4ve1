@@ -28,6 +28,6 @@ jobs:
           base: ""
           plugin_activity: yes
           repositories_skipped: r4ve1
-          plugin_activity_limit: 100
+          plugin_activity_limit: 1000
           plugin_activity_days: 0
           plugin_activity_filter: pr
