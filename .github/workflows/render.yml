@@ -27,5 +27,6 @@ jobs:
           token: ${{ secrets.TOKEN }}
           base: ""
           plugin_activity: yes
-          plugin_activity_limit: 5
+          repositories_skipped: r4ve1
+          plugin_activity_limit: 500
           plugin_activity_days: 0
